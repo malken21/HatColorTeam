@@ -1,0 +1,4 @@
+name: HatColorTeam
+version: '${version}'
+main: marumasa.hatcolorteam.HatColorTeam
+api-version: 1.19
