@@ -1,4 +1,4 @@
 name: HatColorTeam
 version: '${version}'
-main: marumasa.hatcolorteam.HatColorTeam
+main: marumasa.hat_color_team.minecraft
 api-version: 1.19

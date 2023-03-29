@@ -1,4 +1,4 @@
-package marumasa.hatcolorteam;
+package marumasa.hat_color_team;
 
 import org.bukkit.Color;
 import org.bukkit.entity.Entity;

@@ -1,8 +1,8 @@
-package marumasa.hatcolorteam;
+package marumasa.hat_color_team;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class HatColorTeam extends JavaPlugin {
+public final class minecraft extends JavaPlugin {
 
     @Override
     public void onEnable() {
